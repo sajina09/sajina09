@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sajina09
 - 👀 I’m interested in new technolgies
 - 🌱 I’m currently learning react and node
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... : Find me on Instagram - _sajina 
 
 <!---
